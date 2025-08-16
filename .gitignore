@@ -16,10 +16,8 @@
 *.vrb
 
 # Ignorar carpetas específicas
-week-01/pic/
-week-02/pic/
-Week-03/task/input
-Week-03/task/code_
+*week-03/github/task-dplyr/
+*week-03/preparar_task/
 
 # Ignorar .Rproj.user en cualquier nivel
 **/.Rproj.user
