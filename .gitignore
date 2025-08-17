@@ -18,8 +18,8 @@
 # Ignorar cualquier carpeta que contenga /github/task-
 **/github/task-*/
 
-# Ignorar cualquier carpeta que contenga /preparar_task/
-**/preparar_task/
+# Ignorar cualquier carpeta que contenga /data/
+**/data/
 
 # Ignorar .Rproj.user en cualquier nivel
 **/.Rproj.user
